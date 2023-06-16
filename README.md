@@ -13,7 +13,7 @@ We advice to use Satory before a trip to train and reduce the tolerance to senso
 
 <div align="center">
   <img width="200" src="https://github.com/IdeaNotFound/Satory/assets/69073588/e5e0da78-5ed1-4af5-9609-46a792b6b2ed">
-  <img width="200" src="https://github.com/IdeaNotFound/Satory/assets/69073588/2867d04f-9557-4a3d-aa2c-8596fd889500)">
+  <img width="200" src="https://github.com/IdeaNotFound/Satory/assets/69073588/2867d04f-9557-4a3d-aa2c-8596fd889500">
   <img width="200" src="https://github.com/IdeaNotFound/Satory/assets/69073588/fc23ba24-85d5-48d7-a898-6ec86ed5de32">
   <img width="200" src="https://github.com/IdeaNotFound/Satory/assets/69073588/a3d301ec-7e1a-4a48-97a2-3185dd8e00c9">
 </div>
