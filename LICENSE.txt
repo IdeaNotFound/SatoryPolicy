@@ -1,0 +1,29 @@
+Privacy Policy for Satory
+Last updated: June 15, 2023
+
+This privacy policy ("Policy") clarifies the data practices of Developer team ("We", "Us") regarding the Satory App. The app has been crafted as a technical demonstration, primarily showcasing our skills. The app does not collect, store, or use any personal information from its users ("You").
+
+Personal Information We Collect
+The App does not collect any form of personal data. This includes but is not limited to contact information, device information, usage data, or payment details. As a tech demo, the sole purpose of the app is to demonstrate our abilities.
+
+How We Use Your Information
+Since the Game does not collect any data, there is no information that is used for any purpose such as providing and maintaining a service, notifying changes to our service, providing customer care and support, analyzing usage to improve the service, monitoring the usage of the service, or addressing technical issues.
+
+How We Share Your Information
+As the app does not gather any personal data, there is no user information to share with third parties, including advertising partners or analytics providers.
+
+How We Store and Secure Your Information
+The app does not involve any data storage or security practices because it does not collect any user data.
+
+Your Rights
+As we do not collect any personal data, issues concerning access, rectification, erasure of data, etc., do not apply in the context of the app.
+
+Changes to This Privacy Policy
+In case there are any changes to this privacy policy in the future, we will post them on this page and update the "Last updated" date accordingly. However, given the nature of the Game as a tech demo that does not collect any personal data, significant changes to this policy are not anticipated.
+
+Contact Us
+If you have any questions or suggestions about this privacy policy, feel free to contact us at satoryapp@gmail.com
+
+This privacy policy is compliant with relevant laws and regulations. Please check back regularly to stay updated on any changes.
+
+© 2023 Marco Dell'Isola, Valentina Tarantino, Benedetta Nalbone, Maria Cristina Buono, Danilo Cotarella, Martina Casillo. All rights reserved.
